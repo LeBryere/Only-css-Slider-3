@@ -1,4 +1,4 @@
-# [Only-css-Slider-3](https://lebryere.github.io/only-css-slider-3/)
+# [Only css Slider 3](https://lebryere.github.io/only-css-slider-3/)
 
 ## Browser Support
 
@@ -14,7 +14,7 @@
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Magic-Grid-Gallery/master/LICENSE).
+[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/only-css-slider-3/master/LICENSE).
 
 ## Usage
 
@@ -43,4 +43,4 @@ $small_nav_width: 15%; // Previous and Next width - small display
 
 ## Copyright and License
 
-Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Magic-Grid-Gallery/master/LICENSE).
+Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/only-css-slider-3/master/LICENSE).
