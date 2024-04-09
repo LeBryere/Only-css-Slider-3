@@ -20,9 +20,6 @@
 
 ### Basic Usage
 
-
-A page showcasing a multi-image slider gallery structured as follows:
-
 A page showcasing a multi-image slider gallery structured as follows:
 
 - Radio buttons ```html <input type="radio"> ``` are used for switching between images, with each button representing a different image.
