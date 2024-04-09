@@ -25,10 +25,11 @@ A page showcasing a multi-image slider gallery structured as follows:
 
 A page showcasing a multi-image slider gallery structured as follows:
 
-Radio buttons ```html <input type="radio"> ``` are used for switching between images, with each button representing a different image.
-Images are contained within divs with the class slide_img, each of which includes a pair of images along with previous and next buttons.
-Navigation is located within the div with the id nav_slide, which includes dots corresponding to each image ```css <label for="i1" class="dots"> ```.
-Both radio buttons and dots can be used to select the currently displayed image.
+- Radio buttons ```html <input type="radio"> ``` are used for switching between images, with each button representing a different image.
+- Images are contained within divs with the class slide_img, each of which includes a pair of images along with previous and next buttons.
+- Navigation is located within the div with the id nav_slide, which includes dots corresponding to each image ```css <label for="i1" class="dots"> ```.
+- Both radio buttons and dots can be used to select the currently displayed image.
+
 This layout enables easy navigation and simple switching between images. Additionally, the SCSS file is downloadable
 
 ### Variables
